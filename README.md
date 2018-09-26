@@ -9,6 +9,8 @@ Remote work friendly cafes in Poznań.
 - Taczaka 20
 - Razowa
 - Kahawa
+- Inna Piekarnia
+- Stragan
 - DOM na Śródce
 - Uno (Jeżyce)
 - 239 (Łazarz)
