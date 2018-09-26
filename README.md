@@ -12,6 +12,7 @@ Remote work friendly cafes in Poznań.
 - DOM na Śródce
 - Uno (Jeżyce)
 - 239 (Łazarz)
+- Świetlica (CK Zamek)
 - Etno (Posnania, Rataje)
 - Saint Honore (Posnania, Rataje)
 - Starbucks (Galeria MM)
