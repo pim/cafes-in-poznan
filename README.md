@@ -4,7 +4,7 @@
 Remote work friendly cafes in Poznań.
 
 - bardzo
-- Cafe SOHO
+- ~Cafe SOHO~
 - Piece of Cake
 - Taczaka 20
 - Razowa
