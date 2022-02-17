@@ -4,17 +4,17 @@
 Remote work friendly cafes in Poznań.
 
 - bardzo
-- ~Cafe SOHO~
+- ~~Cafe SOHO~~
 - Piece of Cake
 - Taczaka 20
-- Razowa
+- ~~Razowa~~
 - Kahawa
 - Inna Piekarnia
 - Stragan
-- DOM na Śródce
+- ~~DOM na Śródce~~
 - Uno (Jeżyce)
 - 239 (Łazarz)
 - Świetlica (CK Zamek)
-- Etno (Posnania, Rataje)
-- Saint Honore (Posnania, Rataje)
+- ~~Etno (Posnania, Rataje)~~
+- ~~Saint Honore (Posnania, Rataje)~~
 - Starbucks (Galeria MM)
